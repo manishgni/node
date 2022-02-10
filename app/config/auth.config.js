@@ -1,3 +1,3 @@
 module.exports = {
-    secret: "bezkodesr-secret-key"
+    secret: "bezkoder-secret-key"
 }
